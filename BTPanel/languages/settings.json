@@ -8,6 +8,12 @@
             "cn": "英语"
         },
         {
+            "name": "ar",
+            "google": "ar",
+            "title": "العربية",
+            "cn": "阿拉伯语"
+        },
+        {
             "name": "de",
             "google": "de",
             "title": "Deutsch",
